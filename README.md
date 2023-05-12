@@ -1,7 +1,5 @@
 # World Bank Data Explorer
 
-![World Bank Data Explorer](https://yourappimageurl.com)
-
 ## Introduction
 Welcome to the World Bank Data Explorer, a powerful app developed using Python and Streamlit. This app provides users with access to a wide range of global economic and development data, allowing them to explore, analyze, and visualize key indicators and statistics.
 
